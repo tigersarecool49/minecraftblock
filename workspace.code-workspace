@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\MovingRover"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "minecraft"
+	}
+}
